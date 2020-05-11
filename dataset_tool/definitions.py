@@ -5,3 +5,5 @@ BLUETEAM_LOCATION_INTERNATIONAL = [
     'Brazil', 'Canada', 'Mexico', 
     'Cuba', 'Russia',    
 ]
+
+OWURL = 'https://covid.ourworldindata.org/data/owid-covid-data.csv'

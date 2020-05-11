@@ -13,7 +13,7 @@ national = pd.concat([dfmg, dfnt]).reset_index().iloc[:, 1:]
 # save
 now = pd.Timestamp.now().strftime('update_%Y_%m_%d')
 
-filename_pattern = f'blueteam_national_{now}.'
+filename_pattern = f'data/blueteam_national_{now}.'
 national.to_csv(filename_pattern + 'csv')
 national.to_json(filename_pattern + 'json')
 
