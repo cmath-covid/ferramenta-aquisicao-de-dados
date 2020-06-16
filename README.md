@@ -1,6 +1,19 @@
-# dataset
+## Ferramenta para aquisição de dados
 
-Repositório para armazenar ferramentas e conjuntos de dados utilizados no projeto de Matemática Computacional.
+<center>
+    <img src="images/logo_inpe.png"/>
+</center>
+
+Repositório criado para armazenar as ferramentas para a aquisição e organização dos dados utilizados para o desenvolvimento no projeto de Matemática Computacional 1 (CAp-239-4). O **objetivo** principal do desenvolvimento desta ferramenta é facilitar a aquisição dos dados através dos conceitos de Preparação Generalizada de Dados (PGD), onde, a coleta dos dados ocorre de diferentes fontes e são salvos nos formatos SQLite, CSV e JSON.
+
+Docentes:
+- Dr. Reinaldo Rosa
+- Dr. Leonardo B. L. Santos
+
+Discentes:
+ - Fernando Cossetin;
+ - Felipe Menino Carlos;
+ - Felipe Perin.
 
 ## Instruções de utilização - Aquisição de dados
 
