@@ -15,6 +15,14 @@ Discentes:
  - Felipe Menino Carlos;
  - Felipe Perin.
 
+## Fluxo de funcionamento
+
+O fluxo de funcionamento desta ferramenta é sumarizado através do diagrama BPMN abaixo.
+
+<div align="center">
+    <img src="images/fluxo_operacao_ferramenta_aquisicao.png">
+</div>
+
 ## Instruções de utilização - Aquisição de dados
 
 Os scripts de aquisição de dados estão divididos em dois tipos: [Dados nacionais](dataset_tool/load_national.py) e [Dados Internacionais](dataset_tool/load_international.py).
